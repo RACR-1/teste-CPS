@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    height: 700px;
+    background-color:rgb(243, 74, 178);
+    margin: auto;
+    position: relative;
+}
+
+/* .container *{
+    display: block;
+} */
+
+.click-group{
+    width: 40%;
+    height: 40%;
+    background-color:purple;
+    margin: auto;
+}
+
+.click-group button{
+    width: 60%;
+    height: 60%;
+    margin: 10% 100px;
+}
+input{display: inline}
